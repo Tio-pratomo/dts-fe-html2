@@ -1,0 +1,14 @@
+.backgroundJumbo {
+    background-image: url(../img/background-jumbo.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+img[alt="logo_brand"] {
+    border-radius: 50%;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+    background-color: rgb(19, 15, 15);
+}
